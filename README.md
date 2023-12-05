@@ -1,1 +1,3 @@
 ## Image Scraper Project
+
+The Python-based Image Scraper project is a versatile tool designed to extract and download images from websites. Leveraging the power of the requests and BeautifulSoup libraries, the script systematically navigates through the HTML structure of a specified webpage, identifying image sources. It then downloads these images, organizing them into a designated folder. This project serves as a practical solution for collecting visual data for various purposes, such as machine learning datasets or image analysis. With customizable parameters like target URL and maximum images to scrape, the Python Image Scraper project offers flexibility for users with diverse requirements in the realm of web data extraction.
